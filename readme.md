@@ -62,6 +62,8 @@ https://medium.com/rubrikkgroup/understanding-async-avoiding-deadlocks-e41f8f2c6
 
 [Transforming source code and configuration files](https://docs.microsoft.com/pt-br/nuget/create-packages/source-and-config-file-transformations)
 
+[Packaging Source Code With NuGet](https://nikcodes.com/2013/10/23/packaging-source-code-with-nuget/)
+
 ---> [(Gist)The versioning csproj sample files](https://gist.github.com/attilah/c88b9cd32014dcf617ccbe485594ddaa)
 
 ---> [(Gist)The csproj gist](https://gist.github.com/attilah/fd3e71f03fd258c496179e0200c57b0b)
